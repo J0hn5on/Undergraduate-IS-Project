@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|e:\\\u7A0B\u5E8F\u8BBE\u8BA1\\openpgp_fms\\openpgp_fms\\initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|solutionrelative:openpgp_fms\\initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\openpgp_fms\\filemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|solutionrelative:openpgp_fms\\filemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\openpgp_fms\\modemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|solutionrelative:openpgp_fms\\modemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\openpgp_fms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|solutionrelative:openpgp_fms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\openpgp_fms\\keymanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|solutionrelative:openpgp_fms\\keymanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\openpgp_fms\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FB22AB-9821-4014-AFE3-168F2CEE0E31}|OpenPGP_FMS\\OpenPGP_FMS.csproj|solutionrelative:openpgp_fms\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\User.cs",
+              "RelativeDocumentMoniker": "OpenPGP_FMS\\User.cs",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\User.cs",
+              "RelativeToolTip": "OpenPGP_FMS\\User.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAQwDAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:34:05.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Initial.cs",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\Initial.cs",
+              "RelativeDocumentMoniker": "OpenPGP_FMS\\Initial.cs",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\Initial.cs",
+              "RelativeToolTip": "OpenPGP_FMS\\Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:19:33.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModeManage.cs",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\ModeManage.cs",
+              "RelativeDocumentMoniker": "OpenPGP_FMS\\ModeManage.cs",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\ModeManage.cs",
+              "RelativeToolTip": "OpenPGP_FMS\\ModeManage.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwGUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:19:14.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyManage.cs",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\KeyManage.cs",
+              "RelativeDocumentMoniker": "OpenPGP_FMS\\KeyManage.cs",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\KeyManage.cs",
+              "RelativeToolTip": "OpenPGP_FMS\\KeyManage.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowEoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:18:57.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileManage.cs",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\FileManage.cs",
+              "RelativeDocumentMoniker": "OpenPGP_FMS\\FileManage.cs",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\FileManage.cs",
+              "RelativeToolTip": "OpenPGP_FMS\\FileManage.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwB4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:14:59.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\Program.cs",
+              "RelativeDocumentMoniker": "OpenPGP_FMS\\Program.cs",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FMS\\OpenPGP_FMS\\Program.cs",
+              "RelativeToolTip": "OpenPGP_FMS\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:53:47.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
