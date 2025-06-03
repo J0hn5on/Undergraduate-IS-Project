@@ -1,0 +1,828 @@
+﻿  ClearTool.cpp
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,16): error C3646: “baseName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,16): error C3646: “folderName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,16): error C3646: “folderName1”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,16): error C3646: “folderName2”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,16): error C3646: “pathString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,29): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,52): error C2065: “baseName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,62): error C2065: “folderName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,16): error C3646: “pathStringUser”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,56): error C2065: “pathString”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,68): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,16): error C3646: “pathStringKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,32): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,55): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,71): error C2065: “folderName1”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,16): error C3646: “pathStringFile”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,56): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,72): error C2065: “folderName2”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,9): error C3646: “username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,21): error C3646: “sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,9): error C3646: “userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,11): error C3646: “all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,11): error C3646: “all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,9): error C3646: “get_username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,21): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,23): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,21): error C3646: “get_sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,30): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,9): error C3646: “get_userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,19): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,21): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,11): error C3646: “get_all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,35): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,37): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,11): error C3646: “get_all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,44): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,46): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(39,19): error C2061: 语法错误: 标识符“string”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(47,41): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(56,26): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(58,23): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(60,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(62,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,9): error C3646: “SignAndEncryptMultiple”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,31): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,113): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,9): error C3646: “SignAndEncryptSinge”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,71): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,9): error C3646: “SignAndEncryptString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,29): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,77): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(76,14): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(77,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(78,30): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ClearTool.cpp(5,1): error C2011: “ClearTool”:“class”类型重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(82): message : 参见“ClearTool”的声明
+  FileManage.cpp
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,16): error C3646: “baseName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,16): error C3646: “folderName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,16): error C3646: “folderName1”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,16): error C3646: “folderName2”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,16): error C3646: “pathString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,29): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,52): error C2065: “baseName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,62): error C2065: “folderName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,16): error C3646: “pathStringUser”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,56): error C2065: “pathString”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,68): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,16): error C3646: “pathStringKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,32): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,55): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,71): error C2065: “folderName1”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,16): error C3646: “pathStringFile”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,56): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,72): error C2065: “folderName2”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,9): error C3646: “username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,21): error C3646: “sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,9): error C3646: “userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,11): error C3646: “all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,11): error C3646: “all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,9): error C3646: “get_username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,21): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,23): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,21): error C3646: “get_sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,30): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,9): error C3646: “get_userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,19): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,21): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,11): error C3646: “get_all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,35): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,37): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,11): error C3646: “get_all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,44): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,46): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(39,19): error C2061: 语法错误: 标识符“string”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(47,41): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(56,26): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(58,23): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(60,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(62,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,9): error C3646: “SignAndEncryptMultiple”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,31): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,113): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,9): error C3646: “SignAndEncryptSinge”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,71): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,9): error C3646: “SignAndEncryptString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,29): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,77): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(76,14): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(77,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(78,30): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(5,47): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(5,40): error C2065: “String”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(5,47): error C2146: 语法错误: 缺少“)”(在标识符“passwd”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(6,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(6,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(20,26): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(28,26): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(28,87): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(33,20): error C2039: "SignAndEncryptSinge": 不是 "FileManage" 的成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(67): message : 参见“FileManage”的声明
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(33,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(33,39): error C2146: 语法错误: 缺少“;”(在标识符“SignAndEncryptSinge”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(34,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(34,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(56,25): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(56,38): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(56,65): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(56,83): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(61,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(61,9): error C2146: 语法错误: 缺少“;”(在标识符“SignAndEncryptString”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(62,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(62,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(75,21): error C2146: 语法错误: 缺少“)”(在标识符“passwd”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(76,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(76,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(93,83): error C3873: “0x201d”: 不允许将此字符作为标识符的第一个字符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(96,30): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(96,43): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(96,70): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(96,95): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(112,7): error C2182: “DecryptAndVerify”: 非法使用“void”类型
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(112,31): error C2146: 语法错误: 缺少“)”(在标识符“passwd”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\FileManage.cpp(112,37): fatal error C1003: 错误计数超过 100；正在停止编译
+  Global.cpp
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,16): error C3646: “baseName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,16): error C3646: “folderName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,16): error C3646: “folderName1”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,16): error C3646: “folderName2”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,16): error C3646: “pathString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,29): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,52): error C2065: “baseName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,62): error C2065: “folderName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,16): error C3646: “pathStringUser”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,56): error C2065: “pathString”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,68): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,16): error C3646: “pathStringKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,32): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,55): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,71): error C2065: “folderName1”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,16): error C3646: “pathStringFile”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,56): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,72): error C2065: “folderName2”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,9): error C3646: “username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,21): error C3646: “sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,9): error C3646: “userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,11): error C3646: “all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,11): error C3646: “all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,9): error C3646: “get_username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,21): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,23): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,21): error C3646: “get_sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,30): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,9): error C3646: “get_userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,19): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,21): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,11): error C3646: “get_all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,35): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,37): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,11): error C3646: “get_all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,44): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,46): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(39,19): error C2061: 语法错误: 标识符“string”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(47,41): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(56,26): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(58,23): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(60,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(62,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,9): error C3646: “SignAndEncryptMultiple”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,31): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,113): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,9): error C3646: “SignAndEncryptSinge”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,71): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,9): error C3646: “SignAndEncryptString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,29): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,77): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(76,14): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(77,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(78,30): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(7,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(8,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(9,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(11,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(12,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(13,2): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(13,38): error C2065: “pathString”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(14,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(14,107): error C2065: “pathString”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(15,2): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(15,38): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(16,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(16,85): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(16,101): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(17,2): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(17,38): error C2065: “pathStringKey”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(18,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(18,109): error C2065: “pathStringKey”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(18,124): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(19,2): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(19,38): error C2065: “pathStringFile”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(20,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(20,119): error C2065: “pathStringFile”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(20,135): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(21,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(28,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(29,9): error C2146: 语法错误: 缺少“;”(在标识符“basename”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(29,9): error C2065: “basename”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Global.cpp(29,18): fatal error C1003: 错误计数超过 100；正在停止编译
+  KeyManage.cpp
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,16): error C3646: “baseName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,16): error C3646: “folderName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,16): error C3646: “folderName1”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,16): error C3646: “folderName2”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,16): error C3646: “pathString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,29): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,52): error C2065: “baseName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,62): error C2065: “folderName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,16): error C3646: “pathStringUser”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,56): error C2065: “pathString”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,68): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,16): error C3646: “pathStringKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,32): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,55): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,71): error C2065: “folderName1”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,16): error C3646: “pathStringFile”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,56): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,72): error C2065: “folderName2”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,9): error C3646: “username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,21): error C3646: “sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,9): error C3646: “userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,11): error C3646: “all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,11): error C3646: “all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,9): error C3646: “get_username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,21): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,23): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,21): error C3646: “get_sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,30): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,9): error C3646: “get_userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,19): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,21): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,11): error C3646: “get_all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,35): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,37): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,11): error C3646: “get_all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,44): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,46): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(39,19): error C2061: 语法错误: 标识符“string”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(47,41): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(56,26): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(58,23): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(60,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(62,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,9): error C3646: “SignAndEncryptMultiple”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,31): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,113): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,9): error C3646: “SignAndEncryptSinge”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,71): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,9): error C3646: “SignAndEncryptString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,29): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,77): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(76,14): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(77,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(78,30): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(5,43): error C2761: “void KeyManage::GenerateKeyPairRSA(void)”: 不允许重新声明成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(5,36): error C2065: “String”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(5,43): error C2146: 语法错误: 缺少“)”(在标识符“userID”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(6,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(6,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(15,30): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(34,40): error C2761: “void KeyManage::ExportPublicKey(void)”: 不允许重新声明成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(34,33): error C2065: “String”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(34,40): error C2146: 语法错误: 缺少“)”(在标识符“userID”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(35,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(35,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(39,34): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(44,22): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(48,41): error C2761: “void KeyManage::ExportPrivateKey(void)”: 不允许重新声明成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(48,34): error C2065: “String”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(48,41): error C2146: 语法错误: 缺少“)”(在标识符“userID”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(49,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(49,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(53,34): error C2018: 未知字符“0x40”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(59,41): error C2761: “void KeyManage::KeyStoreListKeys(void)”: 不允许重新声明成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(59,34): error C2065: “String”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(59,41): error C2146: 语法错误: 缺少“)”(在标识符“passwd”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(60,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\KeyManage.cpp(60,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  Main.cpp
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,16): error C3646: “baseName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,16): error C3646: “folderName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,16): error C3646: “folderName1”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,16): error C3646: “folderName2”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,16): error C3646: “pathString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,29): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,52): error C2065: “baseName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,62): error C2065: “folderName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,16): error C3646: “pathStringUser”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,56): error C2065: “pathString”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,68): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,16): error C3646: “pathStringKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,32): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,55): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,71): error C2065: “folderName1”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,16): error C3646: “pathStringFile”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,56): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,72): error C2065: “folderName2”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,9): error C3646: “username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,21): error C3646: “sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,9): error C3646: “userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,11): error C3646: “all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,11): error C3646: “all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,9): error C3646: “get_username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,21): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,23): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,21): error C3646: “get_sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,30): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,9): error C3646: “get_userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,19): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,21): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,11): error C3646: “get_all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,35): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,37): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,11): error C3646: “get_all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,44): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,46): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(39,19): error C2061: 语法错误: 标识符“string”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(47,41): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(56,26): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(58,23): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(60,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(62,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,9): error C3646: “SignAndEncryptMultiple”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,31): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,113): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,9): error C3646: “SignAndEncryptSinge”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,71): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,9): error C3646: “SignAndEncryptString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,29): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,77): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(76,14): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(77,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(78,30): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Main.cpp(5,26): error C2761: “void Program::Main(void)”: 不允许重新声明成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Main.cpp(5,20): error C2065: “string”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Main.cpp(5,27): error C2059: 语法错误:“]”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Main.cpp(6,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\Main.cpp(6,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  ModeManage.cpp
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,16): error C3646: “baseName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,16): error C3646: “folderName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,16): error C3646: “folderName1”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,16): error C3646: “folderName2”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,16): error C3646: “pathString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,29): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,52): error C2065: “baseName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,62): error C2065: “folderName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,16): error C3646: “pathStringUser”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,56): error C2065: “pathString”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,68): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,16): error C3646: “pathStringKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,32): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,55): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,71): error C2065: “folderName1”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,16): error C3646: “pathStringFile”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,56): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,72): error C2065: “folderName2”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,9): error C3646: “username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,21): error C3646: “sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,9): error C3646: “userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,11): error C3646: “all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,11): error C3646: “all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,9): error C3646: “get_username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,21): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,23): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,21): error C3646: “get_sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,30): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,9): error C3646: “get_userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,19): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,21): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,11): error C3646: “get_all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,35): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,37): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,11): error C3646: “get_all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,44): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,46): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(39,19): error C2061: 语法错误: 标识符“string”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(47,41): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(56,26): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(58,23): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(60,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(62,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,9): error C3646: “SignAndEncryptMultiple”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,31): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,113): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,9): error C3646: “SignAndEncryptSinge”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,71): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,9): error C3646: “SignAndEncryptString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,29): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,77): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(76,14): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(77,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(78,30): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(6,1): error C2248: “User::~User”: 无法访问 private 成员(在“User”类中声明)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(26): message : 参见“User::~User”的声明
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(18): message : 参见“User”的声明
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(9,3): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(10,3): error C2065: “String”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(10,10): error C2146: 语法错误: 缺少“;”(在标识符“Mode”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(10,10): error C2065: “Mode”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(10,17): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(11,7): error C2065: “Mode”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(13,4): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(14,4): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(15,4): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(17,12): error C2065: “Mode”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(19,4): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(20,4): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(21,4): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(24,5): error C2065: “String”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(24,12): error C2146: 语法错误: 缺少“;”(在标识符“SubMode”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(24,12): error C2065: “SubMode”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(24,22): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(25,9): error C2065: “SubMode”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(26,6): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(26,88): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(27,6): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(29,14): error C2065: “SubMode”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(32,6): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(36,6): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(40,12): error C2065: “Mode”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(42,4): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(43,4): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\ModeManage.cpp(43,11): fatal error C1003: 错误计数超过 100；正在停止编译
+  User.cpp
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,16): error C3646: “baseName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(5,33): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,16): error C3646: “folderName”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(6,55): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,16): error C3646: “folderName1”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(7,35): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,16): error C3646: “folderName2”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(8,36): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,16): error C3646: “pathString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,29): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,52): error C2065: “baseName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,62): error C2065: “folderName”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(9,73): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,16): error C3646: “pathStringUser”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,56): error C2065: “pathString”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,68): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(10,89): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,16): error C3646: “pathStringKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,32): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,55): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,71): error C2065: “folderName1”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(11,83): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,16): error C3646: “pathStringFile”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,33): error C2065: “System”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,56): error C2065: “pathStringUser”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,72): error C2065: “folderName2”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,9): error C2086: “int Global::String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): error C2864: Global::String: 带有类内初始化表达式的静态 数据成员 必须具有不可变的常量整型类型，或必须被指定为“内联”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(12,84): message : 类型是“int”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,9): error C3646: “username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(20,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,21): error C3646: “sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(21,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,9): error C3646: “userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(22,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,11): error C3646: “all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(23,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,11): error C3646: “all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(24,40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,9): error C3646: “get_username”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,21): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(28,23): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,21): error C3646: “get_sid”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(29,30): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,9): error C3646: “get_userID”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,19): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(30,21): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,11): error C3646: “get_all_Authorized_Users”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,35): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(31,37): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,11): error C3646: “get_all_Authorized_Uers_PublicKey”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,44): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(32,46): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(39,19): error C2061: 语法错误: 标识符“string”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(47,41): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(56,26): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(58,23): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(60,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(62,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,9): error C3646: “SignAndEncryptMultiple”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,31): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(71,113): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,9): error C3646: “SignAndEncryptSinge”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,28): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(73,71): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,9): error C3646: “SignAndEncryptString”: 未知重写说明符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,29): error C2059: 语法错误:“(”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(75,77): error C2238: 意外的标记位于“;”之前
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(76,14): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(77,24): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(78,30): error C2061: 语法错误: 标识符“String”
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(8,2): error C2065: “username”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(8,13): error C2065: “Environment”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(9,2): error C2065: “WindowsIdentity”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(9,18): error C2146: 语法错误: 缺少“;”(在标识符“windowsIdentity”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(9,18): error C2065: “windowsIdentity”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(9,36): error C2065: “WindowsIdentity”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(10,2): error C2065: “sid”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(10,8): error C2065: “windowsIdentity”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(10,30): error C2065: “userID”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(10,39): error C3861: “get_userID”: 找不到标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(11,2): error C2065: “Console”: 未声明的标识符
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(17,14): error C2039: "get_username": 不是 "User" 的成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(18): message : 参见“User”的声明
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(17,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(17,26): error C2146: 语法错误: 缺少“;”(在标识符“get_username”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(18,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(18,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(21,26): error C2039: "get_sid": 不是 "User" 的成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(18): message : 参见“User”的声明
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(21,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(21,33): error C2146: 语法错误: 缺少“;”(在标识符“get_sid”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(22,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(22,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(25,14): error C2039: "get_userID": 不是 "User" 的成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(18): message : 参见“User”的声明
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(25,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(25,1): error C2086: “int String”: 重定义
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(17): message : 参见“String”的声明
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(25,24): error C2146: 语法错误: 缺少“;”(在标识符“get_userID”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(26,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(26,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(30,16): error C2039: "get_all_Authorized_Users": 不是 "User" 的成员
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\head.h(18): message : 参见“User”的声明
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(30,40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(30,40): error C2146: 语法错误: 缺少“;”(在标识符“get_all_Authorized_Users”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(31,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(31,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\程序设计\OpenPGP_FileManagerSystem\OpenPGP_FileManagerSystem\User.cpp(31,1): fatal error C1003: 错误计数超过 100；正在停止编译
+  正在生成代码...

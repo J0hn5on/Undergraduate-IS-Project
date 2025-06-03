@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\FileManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|solutionrelative:OpenPGP_FileManagerSystem\\FileManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\head.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|solutionrelative:OpenPGP_FileManagerSystem\\head.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\KeyManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|solutionrelative:OpenPGP_FileManagerSystem\\KeyManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\ModeManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|solutionrelative:OpenPGP_FileManagerSystem\\ModeManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|solutionrelative:OpenPGP_FileManagerSystem\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\ClearTool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|solutionrelative:OpenPGP_FileManagerSystem\\ClearTool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\Global.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|solutionrelative:OpenPGP_FileManagerSystem\\Global.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1039F67-98DE-4F81-AD29-76145549DA40}|OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem.vcxproj|solutionrelative:OpenPGP_FileManagerSystem\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileManage.cpp",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\FileManage.cpp",
+              "RelativeDocumentMoniker": "OpenPGP_FileManagerSystem\\FileManage.cpp",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\FileManage.cpp",
+              "RelativeToolTip": "OpenPGP_FileManagerSystem\\FileManage.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T05:39:18.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "head.h",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\head.h",
+              "RelativeDocumentMoniker": "OpenPGP_FileManagerSystem\\head.h",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\head.h",
+              "RelativeToolTip": "OpenPGP_FileManagerSystem\\head.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T06:00:50.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyManage.cpp",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\KeyManage.cpp",
+              "RelativeDocumentMoniker": "OpenPGP_FileManagerSystem\\KeyManage.cpp",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\KeyManage.cpp",
+              "RelativeToolTip": "OpenPGP_FileManagerSystem\\KeyManage.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T05:39:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModeManage.cpp",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\ModeManage.cpp",
+              "RelativeDocumentMoniker": "OpenPGP_FileManagerSystem\\ModeManage.cpp",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\ModeManage.cpp",
+              "RelativeToolTip": "OpenPGP_FileManagerSystem\\ModeManage.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T05:38:53.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClearTool.cpp",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\ClearTool.cpp",
+              "RelativeDocumentMoniker": "OpenPGP_FileManagerSystem\\ClearTool.cpp",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\ClearTool.cpp",
+              "RelativeToolTip": "OpenPGP_FileManagerSystem\\ClearTool.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T05:39:34.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.cpp",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\Global.cpp",
+              "RelativeDocumentMoniker": "OpenPGP_FileManagerSystem\\Global.cpp",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\Global.cpp",
+              "RelativeToolTip": "OpenPGP_FileManagerSystem\\Global.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T05:37:35.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\Main.cpp",
+              "RelativeDocumentMoniker": "OpenPGP_FileManagerSystem\\Main.cpp",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\Main.cpp",
+              "RelativeToolTip": "OpenPGP_FileManagerSystem\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T05:38:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cpp",
+              "DocumentMoniker": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\User.cpp",
+              "RelativeDocumentMoniker": "OpenPGP_FileManagerSystem\\User.cpp",
+              "ToolTip": "E:\\\u7A0B\u5E8F\u8BBE\u8BA1\\OpenPGP_FileManagerSystem\\OpenPGP_FileManagerSystem\\User.cpp",
+              "RelativeToolTip": "OpenPGP_FileManagerSystem\\User.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T05:38:08.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
