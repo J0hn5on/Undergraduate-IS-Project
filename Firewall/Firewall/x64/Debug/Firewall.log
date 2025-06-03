@@ -1,0 +1,26 @@
+﻿  Connection.cpp
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\head.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“C:/Users/%E6%88%B4%E5%B0%94/Desktop/Netfilter-Firewall-master/client/src/Connection.cpp”)
+  
+  Log.cpp
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\head.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“C:/Users/%E6%88%B4%E5%B0%94/Desktop/Netfilter-Firewall-master/client/src/Log.cpp”)
+  
+  myFirewall.cpp
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\myFirewall.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\head.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“C:/Users/%E6%88%B4%E5%B0%94/Desktop/Netfilter-Firewall-master/client/src/myFirewall.cpp”)
+  
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\myFirewall.cpp(9,10): error C1083: 无法打开包括文件: “getopt.h”: No such file or directory
+  Rule.cpp
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\head.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“C:/Users/%E6%88%B4%E5%B0%94/Desktop/Netfilter-Firewall-master/client/src/Rule.cpp”)
+  
+  Util.cpp
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\head.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“C:/Users/%E6%88%B4%E5%B0%94/Desktop/Netfilter-Firewall-master/client/src/Util.cpp”)
+  
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\Util.cpp(12,9): error C3861: “strsep”: 找不到标识符
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\Util.cpp(15,13): error C3861: “strsep”: 找不到标识符
+C:\Users\戴尔\Desktop\Netfilter-Firewall-master\client\src\Util.cpp(10,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
